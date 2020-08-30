@@ -1,0 +1,23 @@
+{
+  "name": "testapi",
+  "version": "1.0.0",
+  "description": "untuk testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismailpram/testapi.git"
+  },
+  "keywords": [
+    "test",
+    "api"
+  ],
+  "author": "ismail",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ismailpram/testapi/issues"
+  },
+  "homepage": "https://github.com/ismailpram/testapi#readme"
+}
